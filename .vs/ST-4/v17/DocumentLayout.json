@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\WORK ARTEM\\QA_UNN\\ST-4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|D:\\WORK ARTEM\\QA_UNN\\ST-4\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|solutionrelative:.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7BA4B1CE-9305-4946-A015-317178C49A03}|BugTests\\BugTests.csproj|d:\\work artem\\qa_unn\\st-4\\bugtests\\bugtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7BA4B1CE-9305-4946-A015-317178C49A03}|BugTests\\BugTests.csproj|solutionrelative:bugtests\\bugtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -43,32 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "D:\\WORK ARTEM\\QA_UNN\\ST-4\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "D:\\WORK ARTEM\\QA_UNN\\ST-4\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-04-07T11:24:34.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "BugTests.csproj",
               "DocumentMoniker": "D:\\WORK ARTEM\\QA_UNN\\ST-4\\BugTests\\BugTests.csproj",
               "RelativeDocumentMoniker": "BugTests\\BugTests.csproj",
               "ToolTip": "D:\\WORK ARTEM\\QA_UNN\\ST-4\\BugTests\\BugTests.csproj",
               "RelativeToolTip": "BugTests\\BugTests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-07T11:07:38.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "BugPro.csproj",
               "DocumentMoniker": "D:\\WORK ARTEM\\QA_UNN\\ST-4\\BugPro\\BugPro.csproj",
               "RelativeDocumentMoniker": "BugPro\\BugPro.csproj",
@@ -76,12 +59,11 @@
               "RelativeToolTip": "BugPro\\BugPro.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-07T11:07:39.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T11:07:39.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Test1.cs",
               "DocumentMoniker": "D:\\WORK ARTEM\\QA_UNN\\ST-4\\BugTests\\Test1.cs",
               "RelativeDocumentMoniker": "BugTests\\Test1.cs",
@@ -93,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "MSTestSettings.cs",
               "DocumentMoniker": "D:\\WORK ARTEM\\QA_UNN\\ST-4\\BugTests\\MSTestSettings.cs",
               "RelativeDocumentMoniker": "BugTests\\MSTestSettings.cs",
@@ -105,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\WORK ARTEM\\QA_UNN\\ST-4\\BugPro\\Program.cs",
               "RelativeDocumentMoniker": "BugPro\\Program.cs",
